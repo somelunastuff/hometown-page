@@ -38,6 +38,10 @@ body {
     color: #003561
 }
 
+#top-three h3 {
+  margin: 0;
+}
+
 #activity-section {
     display: flex;
     justify-content: space-around;
