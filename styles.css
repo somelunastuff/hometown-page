@@ -23,8 +23,6 @@ body {
 
 .title {
     text-shadow: 0 0 3px black; 
-    /* background: #bde1f8; */
-    /* vil ha gjennomsiktig bakgrunn */
 }
 
 .underline {
@@ -34,13 +32,12 @@ body {
 
 #top-three {
     background-color: #bde1f8;
-    /* får ikke bort hvit linje */
     color: #003561
 }
 
 #top-three h3 {
   margin: 0;
-  padding: 20px auto;
+  padding: 20px 0;
 }
 
 #activity-section {
